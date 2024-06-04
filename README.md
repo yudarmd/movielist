@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## View Live Demo
 
-<pre><center><a href="https://shinchancode.github.io/3d-react-portfolio/"><b>https://shinchancode.github.io/3d-react-portfolio/</b></a></center></pre>
+<pre><center><a href="https://yudarmd.github.io/movielist"><b>https://yudarmd.github.io/movielist</b></a></center></pre>
 
 ## Available Scripts
 
